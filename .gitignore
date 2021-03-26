@@ -1,0 +1,7 @@
+.idea
+/data/
+**/__pycache__*
+.ipynb_checkpoints
+.env
+telegram_bot/.env
+/kerasenv/

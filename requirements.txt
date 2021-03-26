@@ -1,0 +1,15 @@
+requests==2.22.0
+SQLAlchemy==1.3.13
+docutils==0.16
+pandas==1.0.1
+nltk==3.4.5
+wheel==0.34.2
+apscheduler==3.7.0
+beautifulsoup4==4.9.3
+build_py==1.0.0
+constants==0.6.0
+psycopg2==2.8.6
+pyTelegramBotAPI==3.7.7
+python-decouple==3.4
+scikit_learn==0.24.2
+upload==0.1.1
